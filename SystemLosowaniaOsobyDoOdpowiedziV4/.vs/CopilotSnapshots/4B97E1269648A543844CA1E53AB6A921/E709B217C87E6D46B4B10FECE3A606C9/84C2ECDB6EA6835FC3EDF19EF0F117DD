@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="systemLosowaniaOsobyDoOdpowiedziV4.Views.MainPage">
+
+    <ScrollView>
+        <VerticalStackLayout
+            Padding="30,0"
+            Spacing="25">
+            
+            <Label Text="System losowania osoby"
+                   x:Name="titleLabel"
+                   HorizontalOptions="Center"/>
+
+            <Entry x:Name="classEntry"
+                   Placeholder="Podaj nazwę klasy"/>
+
+            <Button Text="Wczytaj klasę"
+                    StyleClass="mainButton"
+                    Clicked="OnLoadClassClicked"/>
+
+            <Button Text="Zapisz klasę"
+                    StyleClass="mainButton"
+                    Clicked="OnSaveClassClicked"/>
+
+            <Button Text="Ustaw szczęśliwy numerek"
+                    StyleClass="mainButton"
+                    Clicked="OnSetLuckyNumberClicked"/>
+
+            <Button Text="Losuj ucznia"
+                    StyleClass="mainButton"
+                    Clicked="OnDrawStudentClicked"/>
+
+            <Label x:Name="resultLabel"
+                   Text="Wynik losowania"
+                   FontSize="20"
+                   HorizontalOptions="Center"/>
+
+            <Button Text="Edytuj klasę"
+                    StyleClass="mainButton"
+                    Clicked="OnEditClassClicked"/>
+
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>

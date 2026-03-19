@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hanna\\source\\repos\\SystemLosowaniaOsobyDoOdpowiedziV4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C8F298-3001-8320-9A3E-E7805565E577}|SystemLosowaniaOsobyDoOdpowiedziV4.csproj|c:\\users\\hanna\\source\\repos\\systemlosowaniaosobydoodpowiedziv4\\resources\\styles\\stylescss.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F0C8F298-3001-8320-9A3E-E7805565E577}|SystemLosowaniaOsobyDoOdpowiedziV4.csproj|solutionrelative:resources\\styles\\stylescss.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C8F298-3001-8320-9A3E-E7805565E577}|SystemLosowaniaOsobyDoOdpowiedziV4.csproj|c:\\users\\hanna\\source\\repos\\systemlosowaniaosobydoodpowiedziv4\\views\\editclasspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0C8F298-3001-8320-9A3E-E7805565E577}|SystemLosowaniaOsobyDoOdpowiedziV4.csproj|solutionrelative:views\\editclasspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C8F298-3001-8320-9A3E-E7805565E577}|SystemLosowaniaOsobyDoOdpowiedziV4.csproj|c:\\users\\hanna\\source\\repos\\systemlosowaniaosobydoodpowiedziv4\\services\\fileservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0C8F298-3001-8320-9A3E-E7805565E577}|SystemLosowaniaOsobyDoOdpowiedziV4.csproj|solutionrelative:services\\fileservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C8F298-3001-8320-9A3E-E7805565E577}|SystemLosowaniaOsobyDoOdpowiedziV4.csproj|c:\\users\\hanna\\source\\repos\\systemlosowaniaosobydoodpowiedziv4\\views\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0C8F298-3001-8320-9A3E-E7805565E577}|SystemLosowaniaOsobyDoOdpowiedziV4.csproj|solutionrelative:views\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C8F298-3001-8320-9A3E-E7805565E577}|SystemLosowaniaOsobyDoOdpowiedziV4.csproj|c:\\users\\hanna\\source\\repos\\systemlosowaniaosobydoodpowiedziv4\\views\\editclasspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F0C8F298-3001-8320-9A3E-E7805565E577}|SystemLosowaniaOsobyDoOdpowiedziV4.csproj|solutionrelative:views\\editclasspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C8F298-3001-8320-9A3E-E7805565E577}|SystemLosowaniaOsobyDoOdpowiedziV4.csproj|c:\\users\\hanna\\source\\repos\\systemlosowaniaosobydoodpowiedziv4\\models\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0C8F298-3001-8320-9A3E-E7805565E577}|SystemLosowaniaOsobyDoOdpowiedziV4.csproj|solutionrelative:models\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C8F298-3001-8320-9A3E-E7805565E577}|SystemLosowaniaOsobyDoOdpowiedziV4.csproj|c:\\users\\hanna\\source\\repos\\systemlosowaniaosobydoodpowiedziv4\\models\\schoolclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0C8F298-3001-8320-9A3E-E7805565E577}|SystemLosowaniaOsobyDoOdpowiedziV4.csproj|solutionrelative:models\\schoolclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C8F298-3001-8320-9A3E-E7805565E577}|SystemLosowaniaOsobyDoOdpowiedziV4.csproj|c:\\users\\hanna\\source\\repos\\systemlosowaniaosobydoodpowiedziv4\\views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F0C8F298-3001-8320-9A3E-E7805565E577}|SystemLosowaniaOsobyDoOdpowiedziV4.csproj|solutionrelative:views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Hanna\\source\\repos\\SystemLosowaniaOsobyDoOdpowiedziV4\\Views\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Views\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\Hanna\\source\\repos\\SystemLosowaniaOsobyDoOdpowiedziV4\\Views\\MainPage.xaml",
+              "RelativeToolTip": "Views\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-02T18:31:07.557Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EditClassPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Hanna\\source\\repos\\SystemLosowaniaOsobyDoOdpowiedziV4\\Views\\EditClassPage.xaml",
+              "RelativeDocumentMoniker": "Views\\EditClassPage.xaml",
+              "ToolTip": "C:\\Users\\Hanna\\source\\repos\\SystemLosowaniaOsobyDoOdpowiedziV4\\Views\\EditClassPage.xaml",
+              "RelativeToolTip": "Views\\EditClassPage.xaml",
+              "ViewState": "AgIAACMAAAAAAAAAAADwvzYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-02T18:14:29.939Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EditClassPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Hanna\\source\\repos\\SystemLosowaniaOsobyDoOdpowiedziV4\\Views\\EditClassPage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\EditClassPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Hanna\\source\\repos\\SystemLosowaniaOsobyDoOdpowiedziV4\\Views\\EditClassPage.xaml.cs",
+              "RelativeToolTip": "Views\\EditClassPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T09:29:25.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileServices.cs",
+              "DocumentMoniker": "C:\\Users\\Hanna\\source\\repos\\SystemLosowaniaOsobyDoOdpowiedziV4\\Services\\FileServices.cs",
+              "RelativeDocumentMoniker": "Services\\FileServices.cs",
+              "ToolTip": "C:\\Users\\Hanna\\source\\repos\\SystemLosowaniaOsobyDoOdpowiedziV4\\Services\\FileServices.cs",
+              "RelativeToolTip": "Services\\FileServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T09:24:54.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SchoolClass.cs",
+              "DocumentMoniker": "C:\\Users\\Hanna\\source\\repos\\SystemLosowaniaOsobyDoOdpowiedziV4\\Models\\SchoolClass.cs",
+              "RelativeDocumentMoniker": "Models\\SchoolClass.cs",
+              "ToolTip": "C:\\Users\\Hanna\\source\\repos\\SystemLosowaniaOsobyDoOdpowiedziV4\\Models\\SchoolClass.cs",
+              "RelativeToolTip": "Models\\SchoolClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T09:40:46.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Students.cs",
+              "DocumentMoniker": "C:\\Users\\Hanna\\source\\repos\\SystemLosowaniaOsobyDoOdpowiedziV4\\Models\\Students.cs",
+              "RelativeDocumentMoniker": "Models\\Students.cs",
+              "ToolTip": "C:\\Users\\Hanna\\source\\repos\\SystemLosowaniaOsobyDoOdpowiedziV4\\Models\\Students.cs",
+              "RelativeToolTip": "Models\\Students.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T09:40:47.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StylesCss.css",
+              "DocumentMoniker": "C:\\Users\\Hanna\\source\\repos\\SystemLosowaniaOsobyDoOdpowiedziV4\\Resources\\Styles\\StylesCss.css",
+              "RelativeDocumentMoniker": "Resources\\Styles\\StylesCss.css",
+              "ToolTip": "C:\\Users\\Hanna\\source\\repos\\SystemLosowaniaOsobyDoOdpowiedziV4\\Resources\\Styles\\StylesCss.css",
+              "RelativeToolTip": "Resources\\Styles\\StylesCss.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-03-19T09:58:51.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Hanna\\source\\repos\\SystemLosowaniaOsobyDoOdpowiedziV4\\Views\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Hanna\\source\\repos\\SystemLosowaniaOsobyDoOdpowiedziV4\\Views\\MainPage.xaml.cs",
+              "RelativeToolTip": "Views\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T09:29:28.258Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

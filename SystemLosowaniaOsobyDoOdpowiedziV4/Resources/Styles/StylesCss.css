@@ -1,0 +1,14 @@
+#title, #classPicker, #resultLabel, #text {
+    color: #000c71;
+}
+
+#buttonDraw, #buttonEditClass, #deleteButton, #saveButton, #addButton {
+    color: #FFFFFF;
+    background-color: #FF0000;
+    width: 200;
+}
+
+#classNameEntry, #nameEntry, #numberEntry, #studentsList {
+    background-color: grey;
+}
+

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SystemLosowaniaOsobyDoOdpowiedziV4.Views.EditClassPage"
+             Title="Edycja klasy">
+    <Grid>
+
+        <Image Source="notebook_bg.png"
+           Aspect="AspectFill"/>
+
+        <ScrollView>
+            <VerticalStackLayout Padding="20" Spacing="10">
+
+                <Label x:Name="title"
+                    Text="Wybierz istniejącą klasę"/>
+
+                <Picker x:Name="classPicker"
+                    Title="Klasa"
+                    SelectedIndexChanged="OnClassSelected"
+                    BackgroundColor="#7e7b9c"
+                    WidthRequest="90"
+                    TitleColor="#000c71"/>
+
+                <Label x:Name="text" 
+                    Text="Lub utwórz nową klasę"/>
+
+                <Entry x:Name="classNameEntry"
+                   Placeholder="Nazwa klasy"/>
+
+                <Entry x:Name="nameEntry"
+                   Placeholder="Imię ucznia"/>
+
+                <Entry x:Name="numberEntry"
+                   Placeholder="Numer"
+                   Keyboard="Numeric"/>
+
+                <Button x:Name="addButton"
+                    Text="Dodaj ucznia"
+                    Clicked="OnAddClicked"/>
+
+                <CollectionView x:Name="studentsList"
+                                SelectionMode="Single">
+
+                    <CollectionView.ItemTemplate>
+                        <DataTemplate>
+                            <HorizontalStackLayout Padding="5">
+                                <Label Text="{Binding Number}"
+                                       WidthRequest="40"
+                                       Background="gray"/>
+                                <Label Text="{Binding Name}"
+                                       TextColor="DarkBlue"/>
+                            </HorizontalStackLayout>
+                        </DataTemplate>
+                    </CollectionView.ItemTemplate>
+
+                </CollectionView>
+
+                <Button x:Name="deleteButton" 
+                    Text="Usuń zaznaczonego ucznia"
+                    Clicked="OnDeleteClicked"/>
+
+                <Button x:Name="saveButton"
+                    Text="Zapisz klasę"
+                    Clicked="OnSaveClicked"/>
+
+            </VerticalStackLayout>
+        </ScrollView>
+    </Grid>
+</ContentPage>

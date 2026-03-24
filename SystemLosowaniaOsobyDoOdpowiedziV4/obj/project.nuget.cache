@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6B6nrWxDtmc=",
+  "dgSpecHash": "gmV4GcxDur4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Hanna\\source\\repos\\SystemLosowaniaOsobyDoOdpowiedziV4\\SystemLosowaniaOsobyDoOdpowiedziV4.csproj",
+  "projectFilePath": "C:\\Users\\Hanna\\OneDrive\\Dokumenty\\GitHub\\Desk02\\SystemLosowaniaOsobyDoOdpowiedziV4\\SystemLosowaniaOsobyDoOdpowiedziV4.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hanna\\.nuget\\packages\\googlegson\\2.13.0.1\\googlegson.2.13.0.1.nupkg.sha512",
     "C:\\Users\\Hanna\\.nuget\\packages\\microsoft.extensions.configuration\\9.0.9\\microsoft.extensions.configuration.9.0.9.nupkg.sha512",

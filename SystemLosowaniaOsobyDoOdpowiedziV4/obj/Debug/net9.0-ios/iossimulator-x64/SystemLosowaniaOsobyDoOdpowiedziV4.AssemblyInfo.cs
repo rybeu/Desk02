@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SystemLosowaniaOsobyDoOdpowiedziV4")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+07214329d17d28509f3bbcb10621d3d9cbfb31a8")]
 [assembly: System.Reflection.AssemblyProductAttribute("SystemLosowaniaOsobyDoOdpowiedziV4")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SystemLosowaniaOsobyDoOdpowiedziV4")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

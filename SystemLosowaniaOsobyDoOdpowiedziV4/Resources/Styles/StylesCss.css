@@ -1,3 +1,10 @@
+.titleText {
+    color: white;
+    font-size: 22;
+    font-weight: bold;
+    background-color: darkblue;
+}
+
 #title, #classPicker, #resultLabel, #text {
     color: #000c71;
 }
@@ -11,4 +18,3 @@
 #classNameEntry, #nameEntry, #numberEntry, #studentsList {
     background-color: grey;
 }
-

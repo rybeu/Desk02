@@ -3,7 +3,8 @@
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="SystemLosowaniaOsobyDoOdpowiedziV4.Views.MainPage"
-             Title="System losowania">
+             Title="System losowania osoby do odpowiedzi"
+             StyleClass="titleBar">
 
     <Grid>
 
@@ -14,9 +15,10 @@
             <VerticalStackLayout Padding="20" Spacing="15">
 
                 <Label x:Name="title"
-                   Text="System losowania osoby"
-                   FontSize="24"
-                   HorizontalOptions="Center"/>
+                    Text="Losowanie osoby"
+                    FontSize="24"
+                    HorizontalOptions="Center"
+                    HorizontalTextAlignment="Center"/>
 
                 <Picker x:Name="classPicker"
                     Title="Wybierz klasę"

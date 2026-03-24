@@ -26146,11 +26146,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hanna\\source\\repos\\SystemLosowaniaOsobyDoOdpowiedziV4\\SystemLosowaniaOsobyDoOdpowiedziV4.csproj",
+      "projectUniqueName": "C:\\Users\\Hanna\\OneDrive\\Dokumenty\\GitHub\\Desk02\\SystemLosowaniaOsobyDoOdpowiedziV4\\SystemLosowaniaOsobyDoOdpowiedziV4.csproj",
       "projectName": "SystemLosowaniaOsobyDoOdpowiedziV4",
-      "projectPath": "C:\\Users\\Hanna\\source\\repos\\SystemLosowaniaOsobyDoOdpowiedziV4\\SystemLosowaniaOsobyDoOdpowiedziV4.csproj",
+      "projectPath": "C:\\Users\\Hanna\\OneDrive\\Dokumenty\\GitHub\\Desk02\\SystemLosowaniaOsobyDoOdpowiedziV4\\SystemLosowaniaOsobyDoOdpowiedziV4.csproj",
       "packagesPath": "C:\\Users\\Hanna\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hanna\\source\\repos\\SystemLosowaniaOsobyDoOdpowiedziV4\\obj\\",
+      "outputPath": "C:\\Users\\Hanna\\OneDrive\\Dokumenty\\GitHub\\Desk02\\SystemLosowaniaOsobyDoOdpowiedziV4\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [

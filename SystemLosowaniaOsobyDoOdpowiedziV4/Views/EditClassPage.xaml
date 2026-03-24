@@ -17,7 +17,7 @@
                 <Picker x:Name="classPicker"
                     Title="Klasa"
                     SelectedIndexChanged="OnClassSelected"
-                    BackgroundColor="#7e7b9c"
+                    BackgroundColor="#303030"
                     WidthRequest="90"
                     TitleColor="#000c71"/>
 

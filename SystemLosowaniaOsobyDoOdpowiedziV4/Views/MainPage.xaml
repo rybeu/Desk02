@@ -4,7 +4,7 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="SystemLosowaniaOsobyDoOdpowiedziV4.Views.MainPage"
              Title="System losowania osoby do odpowiedzi"
-             StyleClass="titleBar">
+             StyleClass="page">
 
     <Grid>
 
@@ -22,7 +22,7 @@
 
                 <Picker x:Name="classPicker"
                     Title="Wybierz klasę"
-                    BackgroundColor="#7e7b9c"
+                    BackgroundColor="#303030"
                     WidthRequest="90"
                     TitleColor="DarkBlue"/>
 

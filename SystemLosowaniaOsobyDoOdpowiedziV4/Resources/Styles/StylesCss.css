@@ -6,7 +6,7 @@
 }
 
 #title, #classPicker, #resultLabel, #text {
-    color: #000c71;
+    color: darkblue;
 }
 
 #buttonDraw, #buttonEditClass, #deleteButton, #saveButton, #addButton {
@@ -17,4 +17,13 @@
 
 #classNameEntry, #nameEntry, #numberEntry, #studentsList {
     background-color: grey;
+}
+
+.page {
+    background-color: #303030;
+}
+
+NavigationPage {
+    -maui-bar-background-color: #303030;
+    -maui-bar-text-color: white;
 }

@@ -1,17 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Hanna\\OneDrive\\Dokumenty\\GitHub\\Desk02\\SystemLosowaniaOsobyDoOdpowiedziV4\\",
+  "WorkspaceRootPath": "C:\\Users\\Hanna\\Downloads\\Desk02-main\\Desk02-main\\SystemLosowaniaOsobyDoOdpowiedziV4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F0C8F298-3001-8320-9A3E-E7805565E577}|SystemLosowaniaOsobyDoOdpowiedziV4.csproj|c:\\users\\hanna\\onedrive\\dokumenty\\github\\desk02\\systemlosowaniaosobydoodpowiedziv4\\resources\\styles\\stylescss.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{F0C8F298-3001-8320-9A3E-E7805565E577}|SystemLosowaniaOsobyDoOdpowiedziV4.csproj|c:\\users\\hanna\\downloads\\desk02-main\\desk02-main\\systemlosowaniaosobydoodpowiedziv4\\resources\\styles\\stylescss.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{F0C8F298-3001-8320-9A3E-E7805565E577}|SystemLosowaniaOsobyDoOdpowiedziV4.csproj|solutionrelative:resources\\styles\\stylescss.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0C8F298-3001-8320-9A3E-E7805565E577}|SystemLosowaniaOsobyDoOdpowiedziV4.csproj|c:\\users\\hanna\\onedrive\\dokumenty\\github\\desk02\\systemlosowaniaosobydoodpowiedziv4\\views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{F0C8F298-3001-8320-9A3E-E7805565E577}|SystemLosowaniaOsobyDoOdpowiedziV4.csproj|c:\\users\\hanna\\downloads\\desk02-main\\desk02-main\\systemlosowaniaosobydoodpowiedziv4\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0C8F298-3001-8320-9A3E-E7805565E577}|SystemLosowaniaOsobyDoOdpowiedziV4.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C8F298-3001-8320-9A3E-E7805565E577}|SystemLosowaniaOsobyDoOdpowiedziV4.csproj|c:\\users\\hanna\\downloads\\desk02-main\\desk02-main\\systemlosowaniaosobydoodpowiedziv4\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F0C8F298-3001-8320-9A3E-E7805565E577}|SystemLosowaniaOsobyDoOdpowiedziV4.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C8F298-3001-8320-9A3E-E7805565E577}|SystemLosowaniaOsobyDoOdpowiedziV4.csproj|c:\\users\\hanna\\downloads\\desk02-main\\desk02-main\\systemlosowaniaosobydoodpowiedziv4\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F0C8F298-3001-8320-9A3E-E7805565E577}|SystemLosowaniaOsobyDoOdpowiedziV4.csproj|solutionrelative:appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C8F298-3001-8320-9A3E-E7805565E577}|SystemLosowaniaOsobyDoOdpowiedziV4.csproj|c:\\users\\hanna\\downloads\\desk02-main\\desk02-main\\systemlosowaniaosobydoodpowiedziv4\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0C8F298-3001-8320-9A3E-E7805565E577}|SystemLosowaniaOsobyDoOdpowiedziV4.csproj|solutionrelative:appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C8F298-3001-8320-9A3E-E7805565E577}|SystemLosowaniaOsobyDoOdpowiedziV4.csproj|c:\\users\\hanna\\downloads\\desk02-main\\desk02-main\\systemlosowaniaosobydoodpowiedziv4\\views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{F0C8F298-3001-8320-9A3E-E7805565E577}|SystemLosowaniaOsobyDoOdpowiedziV4.csproj|solutionrelative:views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0C8F298-3001-8320-9A3E-E7805565E577}|SystemLosowaniaOsobyDoOdpowiedziV4.csproj|c:\\users\\hanna\\onedrive\\dokumenty\\github\\desk02\\systemlosowaniaosobydoodpowiedziv4\\views\\editclasspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{F0C8F298-3001-8320-9A3E-E7805565E577}|SystemLosowaniaOsobyDoOdpowiedziV4.csproj|c:\\users\\hanna\\downloads\\desk02-main\\desk02-main\\systemlosowaniaosobydoodpowiedziv4\\views\\editclasspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{F0C8F298-3001-8320-9A3E-E7805565E577}|SystemLosowaniaOsobyDoOdpowiedziV4.csproj|solutionrelative:views\\editclasspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
@@ -22,17 +38,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "MainPage.xaml",
-              "DocumentMoniker": "C:\\Users\\Hanna\\OneDrive\\Dokumenty\\GitHub\\Desk02\\SystemLosowaniaOsobyDoOdpowiedziV4\\Views\\MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Hanna\\Downloads\\Desk02-main\\Desk02-main\\SystemLosowaniaOsobyDoOdpowiedziV4\\Views\\MainPage.xaml",
               "RelativeDocumentMoniker": "Views\\MainPage.xaml",
-              "ToolTip": "C:\\Users\\Hanna\\OneDrive\\Dokumenty\\GitHub\\Desk02\\SystemLosowaniaOsobyDoOdpowiedziV4\\Views\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\Hanna\\Downloads\\Desk02-main\\Desk02-main\\SystemLosowaniaOsobyDoOdpowiedziV4\\Views\\MainPage.xaml",
               "RelativeToolTip": "Views\\MainPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-03-02T18:31:07.557Z",
               "IsPinned": true,
@@ -40,13 +56,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "EditClassPage.xaml",
-              "DocumentMoniker": "C:\\Users\\Hanna\\OneDrive\\Dokumenty\\GitHub\\Desk02\\SystemLosowaniaOsobyDoOdpowiedziV4\\Views\\EditClassPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Hanna\\Downloads\\Desk02-main\\Desk02-main\\SystemLosowaniaOsobyDoOdpowiedziV4\\Views\\EditClassPage.xaml",
               "RelativeDocumentMoniker": "Views\\EditClassPage.xaml",
-              "ToolTip": "C:\\Users\\Hanna\\OneDrive\\Dokumenty\\GitHub\\Desk02\\SystemLosowaniaOsobyDoOdpowiedziV4\\Views\\EditClassPage.xaml",
+              "ToolTip": "C:\\Users\\Hanna\\Downloads\\Desk02-main\\Desk02-main\\SystemLosowaniaOsobyDoOdpowiedziV4\\Views\\EditClassPage.xaml",
               "RelativeToolTip": "Views\\EditClassPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-03-02T18:14:29.939Z",
               "IsPinned": true,
@@ -54,15 +70,67 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Hanna\\Downloads\\Desk02-main\\Desk02-main\\SystemLosowaniaOsobyDoOdpowiedziV4\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\Hanna\\Downloads\\Desk02-main\\Desk02-main\\SystemLosowaniaOsobyDoOdpowiedziV4\\AppShell.xaml.cs",
+              "RelativeToolTip": "AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T20:18:01.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\Hanna\\Downloads\\Desk02-main\\Desk02-main\\SystemLosowaniaOsobyDoOdpowiedziV4\\AppShell.xaml",
+              "RelativeDocumentMoniker": "AppShell.xaml",
+              "ToolTip": "C:\\Users\\Hanna\\Downloads\\Desk02-main\\Desk02-main\\SystemLosowaniaOsobyDoOdpowiedziV4\\AppShell.xaml",
+              "RelativeToolTip": "AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-24T20:06:07.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Hanna\\Downloads\\Desk02-main\\Desk02-main\\SystemLosowaniaOsobyDoOdpowiedziV4\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\Hanna\\Downloads\\Desk02-main\\Desk02-main\\SystemLosowaniaOsobyDoOdpowiedziV4\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-24T20:26:38.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "StylesCss.css",
-              "DocumentMoniker": "C:\\Users\\Hanna\\OneDrive\\Dokumenty\\GitHub\\Desk02\\SystemLosowaniaOsobyDoOdpowiedziV4\\Resources\\Styles\\StylesCss.css",
+              "DocumentMoniker": "C:\\Users\\Hanna\\Downloads\\Desk02-main\\Desk02-main\\SystemLosowaniaOsobyDoOdpowiedziV4\\Resources\\Styles\\StylesCss.css",
               "RelativeDocumentMoniker": "Resources\\Styles\\StylesCss.css",
-              "ToolTip": "C:\\Users\\Hanna\\OneDrive\\Dokumenty\\GitHub\\Desk02\\SystemLosowaniaOsobyDoOdpowiedziV4\\Resources\\Styles\\StylesCss.css",
+              "ToolTip": "C:\\Users\\Hanna\\Downloads\\Desk02-main\\Desk02-main\\SystemLosowaniaOsobyDoOdpowiedziV4\\Resources\\Styles\\StylesCss.css",
               "RelativeToolTip": "Resources\\Styles\\StylesCss.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2026-03-19T09:58:51.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Hanna\\Downloads\\Desk02-main\\Desk02-main\\SystemLosowaniaOsobyDoOdpowiedziV4\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\Hanna\\Downloads\\Desk02-main\\Desk02-main\\SystemLosowaniaOsobyDoOdpowiedziV4\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T20:18:28.412Z",
               "EditorCaption": ""
             }
           ]

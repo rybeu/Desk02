@@ -3,12 +3,8 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:local="clr-namespace:SystemLosowaniaOsobyDoOdpowiedziV4"
              x:Class="SystemLosowaniaOsobyDoOdpowiedziV4.App">
+    
     <Application.Resources>
-        <ResourceDictionary>
-            <ResourceDictionary.MergedDictionaries>
-                <ResourceDictionary Source="Resources/Styles/Colors.xaml" />
-            </ResourceDictionary.MergedDictionaries>
-            <StyleSheet Source="Resources/Styles/StylesCss.css"/>
-        </ResourceDictionary>
+        <StyleSheet Source="Resources/Styles/StylesCss.css"/>
     </Application.Resources>
 </Application>
